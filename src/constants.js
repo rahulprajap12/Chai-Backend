@@ -1,1 +1,1 @@
-export coust DB_NAME="videotube"
+export const DB_NAME="rahulprajapati123"
